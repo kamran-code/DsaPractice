@@ -5,12 +5,6 @@
         "comments": false,
         "strings": false
     },
-    "editor.suggest.showWords": false,
-    "editor.suggest.showFunctions": false,
-    "editor.suggest.showVariables": false,
-    "editor.suggest.showClasses": false,
-    "editor.suggest.showMethods": false,
-    "editor.diagnostic.show": "never",
-    "editor.codeActionsOnSave": {},
-    "editor.inlineSuggest.enabled": false
+   
+    
 }
