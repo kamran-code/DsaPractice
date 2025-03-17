@@ -56,8 +56,8 @@ This repository is primarily for my personal learning, but feel free to explore 
 ## 📩 Contact
 If you have any queries, feel free to reach out:
 - **Website**: [SourceOpen.in](https://sourceopen.in)
-- **Email**: your-kkhan2928@gmail.com
-- **GitHub**: [your-username](https://github.com/kamran-code)
+- **Email**: kkhan2928@gmail.com
+- **GitHub**: [Kamran Khan](https://github.com/kamran-code)
 
 ---
 
