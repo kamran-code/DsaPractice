@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ArrayTest {
+public class NumberPresentInArray {
 
     public static boolean isPresent(int arr[], int target) {
         for (int i = 0; i < arr.length; i++) {
